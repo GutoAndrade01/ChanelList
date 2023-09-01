@@ -58,3 +58,7 @@ function limparTudo() {
   exibirNumerosSorteados();
   exibirContador();
 }
+function callPage() {
+  // Redirecionar para a página desejada
+  window.location.href = "pagina-alvo.html";
+}
