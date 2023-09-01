@@ -18,6 +18,8 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin-left: -335px;
+  margin-top: 50px;
 }
 
 /* Estilo para o ícone */
@@ -74,7 +76,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #f1ee3cf1;
 }
 
 /* Estilos para o número atual */
